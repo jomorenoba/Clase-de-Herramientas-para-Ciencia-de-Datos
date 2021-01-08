@@ -1,0 +1,83 @@
+Poblacion,Habitos de Higiene,Tamaño de Población,Más del 35% de Población con Enfermedades Crónicas,60 años o más,Número de Invididuos con Seguridad Social,% de Individuos con Mala Higiene,Número de Hombres,Número de Mujeres,% Individuos Descuidando Sana Distancia,% Escépticos que no siguen Medidas,Acumulado de Infectados en 14 días
+Diminuta,bueno,40,1,9,27,9,18,22,4,17,12
+Diminuta,bueno,40,1,7,1,8,25,15,2,10,15
+Diminuta,bueno,21,1,6,1,9,11,10,3,4,3
+Diminuta,bueno,22,1,2,12,5,10,12,3,10,4
+Diminuta,bueno,64,1,7,40,15,34,30,6,15,11
+Diminuta,bueno,38,2,6,36,8,21,17,3,6,12
+Diminuta,bueno,62,2,8,34,13,35,27,8,13,16
+Diminuta,bueno,22,1,5,9,5,11,11,4,2,4
+Diminuta,bueno,65,2,16,33,13,31,34,10,10,22
+Diminuta,bueno,57,2,6,50,7,22,35,8,15,25
+Diminuta,bueno,41,2,5,24,10,26,15,3,10,9
+Diminuta,bueno,46,1,11,21,9,25,21,5,13,13
+Diminuta,bueno,35,2,8,5,5,20,15,2,10,4
+Diminuta,bueno,20,1,3,14,2,7,13,5,6,2
+Diminuta,bueno,31,1,4,12,7,19,12,8,1,3
+Enorme,malo,279,1,52,189,58,149,130,41,68,74
+Enorme,malo,268,1,42,205,50,127,141,35,67,58
+Enorme,malo,268,1,48,184,57,141,127,27,83,67
+Enorme,malo,288,1,44,230,57,146,142,35,61,70
+Enorme,malo,266,1,34,260,48,126,140,39,70,62
+Enorme,malo,278,1,44,11,56,135,143,51,75,54
+Enorme,malo,298,1,47,88,64,158,140,35,73,66
+Enorme,malo,260,2,49,61,64,143,117,28,56,69
+Enorme,malo,284,1,41,31,53,123,161,37,72,62
+Enorme,malo,263,1,39,14,49,132,131,29,61,68
+Enorme,malo,259,2,40,223,54,122,137,38,67,48
+Enorme,malo,282,2,52,13,57,133,149,43,69,67
+Enorme,malo,291,1,45,229,58,135,156,31,76,76
+Enorme,malo,297,1,53,63,65,144,153,39,83,71
+Enorme,malo,293,2,45,270,64,163,130,42,78,74
+Muy Poblada,malo,236,1,31,31,50,122,114,29,60,59
+Muy Poblada,malo,224,1,28,10,51,109,115,34,45,52
+Muy Poblada,malo,253,1,38,90,58,127,126,36,64,62
+Muy Poblada,malo,252,1,39,231,55,123,129,30,72,62
+Muy Poblada,malo,224,2,36,23,50,118,106,26,54,47
+Muy Poblada,malo,246,1,44,89,59,126,120,42,65,53
+Muy Poblada,malo,250,1,37,193,52,123,127,32,69,67
+Muy Poblada,regular malo,248,2,49,150,40,118,130,33,56,74
+Muy Poblada,regular malo,213,1,40,75,35,98,115,27,40,57
+Muy Poblada,regular malo,226,1,40,221,45,101,125,32,58,54
+Muy Poblada,regular malo,216,1,25,51,43,0,216,27,57,55
+Muy Poblada,regular malo,253,2,47,61,35,116,137,31,74,58
+Muy Poblada,regular malo,225,1,32,143,38,97,128,43,61,51
+Muy Poblada,regular malo,237,1,40,125,43,0,237,36,67,48
+Muy Poblada,regular malo,253,1,39,82,45,128,125,23,60,58
+Pequeña,bueno,91,1,17,55,11,43,48,7,18,19
+Pequeña,bueno,109,2,21,68,16,46,63,10,32,24
+Pequeña,bueno,70,2,17,8,12,36,34,5,25,16
+Pequeña,bueno,73,1,7,57,16,44,29,11,23,19
+Pequeña,bueno,106,1,15,45,16,47,59,16,28,27
+Pequeña,bueno,71,1,9,59,13,37,34,7,16,7
+Pequeña,bueno,70,1,9,1,13,36,34,5,15,19
+Pequeña,bueno,85,1,9,51,15,46,39,12,25,18
+Pequeña,regular bueno,99,1,13,55,23,58,41,6,24,21
+Pequeña,regular bueno,108,1,17,26,21,52,56,13,27,27
+Pequeña,regular bueno,110,1,15,58,26,55,55,17,21,30
+Pequeña,regular bueno,100,2,19,81,21,46,54,8,15,28
+Pequeña,regular bueno,84,1,9,76,21,42,42,6,21,25
+Pequeña,regular bueno,91,2,19,44,18,47,44,13,21,16
+Pequeña,regular bueno,82,1,12,6,23,43,39,12,15,23
+Poblada,regular bueno,171,1,24,143,34,84,87,22,45,40
+Poblada,regular bueno,178,2,33,78,28,82,96,21,37,43
+Poblada,regular malo,177,1,27,97,38,86,91,21,47,51
+Poblada,regular malo,176,1,33,33,37,90,86,27,41,40
+Poblada,regular malo,193,1,27,174,41,94,99,22,47,39
+Poblada,regular malo,186,1,34,118,43,97,89,30,45,46
+Poblada,regular malo,168,1,26,84,43,81,87,23,43,43
+Poblada,regular malo,205,1,35,20,35,98,107,18,53,38
+Poblada,regular malo,171,1,27,62,35,85,86,25,44,37
+Poblada,regular malo,179,1,25,62,42,92,87,22,52,39
+Poblada,regular malo,203,1,35,137,43,106,97,24,59,44
+Poblada,regular malo,190,1,31,96,42,95,95,26,65,41
+Poblada,regular malo,168,2,28,110,35,78,90,23,47,33
+Regular,regular bueno,119,1,15,109,25,54,65,18,28,32
+Regular,regular bueno,142,1,25,17,34,78,64,15,34,35
+Regular,regular bueno,119,1,17,68,26,59,60,17,35,27
+Regular,regular bueno,147,1,28,131,23,64,83,18,36,36
+Regular,regular bueno,142,1,21,114,33,77,65,14,35,27
+Regular,regular bueno,146,1,25,10,23,61,85,22,37,29
+Regular,regular bueno,135,1,25,95,24,63,72,16,31,35
+Regular,regular malo,153,1,20,47,38,74,79,17,36,37
+Regular,regular malo,159,1,30,149,36,74,85,15,45,41
